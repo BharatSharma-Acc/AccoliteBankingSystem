@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "accolite-bank-application", "accolite-bank-application.csproj", "{DDC5C94F-E139-4135-B6EC-7B04A26B2F0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "accolite-bank-application.Tests", "..\accolite-bank-application.Tests\accolite-bank-application.Tests.csproj", "{5EBDF2ED-DA41-4C8A-96F2-2C6C8E37AB1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDC5C94F-E139-4135-B6EC-7B04A26B2F0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDC5C94F-E139-4135-B6EC-7B04A26B2F0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDC5C94F-E139-4135-B6EC-7B04A26B2F0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDC5C94F-E139-4135-B6EC-7B04A26B2F0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EBDF2ED-DA41-4C8A-96F2-2C6C8E37AB1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EBDF2ED-DA41-4C8A-96F2-2C6C8E37AB1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EBDF2ED-DA41-4C8A-96F2-2C6C8E37AB1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EBDF2ED-DA41-4C8A-96F2-2C6C8E37AB1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F76E035-6733-4454-8B79-DED824FE02C3}
+	EndGlobalSection
+EndGlobal
