@@ -129,7 +129,7 @@ namespace accolite_bank_application.Controllers
             var response = await _accountServices.DeleteAccount(accountId);
             if (response)
             {
-                return Ok(SuccsessConstants.ACCOUNT_CREATED_MESSAGE);
+                return Ok(SuccsessConstants.ACCOUNT_DELETED_MESSAGE + accountId);
             }
             else
             {
