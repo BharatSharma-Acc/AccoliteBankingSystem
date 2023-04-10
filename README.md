@@ -52,7 +52,7 @@ Note :  Unit Test cases project can be cloned from below path :
 2) Further enhancements in Exception handling mechanism.
 3) Authentication and authorization can be implemented.
 4) More unit cases can be added for repository layer.
-5) Concept of transactions can be introduced.
+5) Concept of transactions can be introduced. We can separate Withdraw and Deposit transactions.
 
 
 
